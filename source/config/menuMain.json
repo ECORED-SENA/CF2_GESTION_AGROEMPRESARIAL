@@ -8,102 +8,114 @@
   { 
     "id": 1,
     "icon": "fa fa-file-text-o",
-    "slug": "actividad",
-    "title": "1. Actividad productiva",
+    "slug": "llave",
+    "title": "1. Llave de acceso para llegar a mercados verdes de un sistema productivo",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/1-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text-o",
-        "slug": "actividad",
-        "title": "1.1 Planteamiento del problema",
+        "slug": "llave",
+        "title": "1.1 Estándar de certificación ",
         "anchor": "11"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "actividad",
-        "title": "1.2 Diagnóstico",
+        "slug": "llave",
+        "title": "1.2 Trazabilidad",
         "anchor": "12"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "actividad",
-        "title": "1.3 Clasificación de los problemas",
+        "slug": "llave",
+        "title": "1.3 Registros",
         "anchor": "13"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "actividad",
-        "title": "1.4 Sector productivo",
+        "slug": "llave",
+        "title": "1.4 Indicadores ",
         "anchor": "14"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "actividad",
-        "title": "1.5 Entorno",
+        "slug": "llave",
+        "title": "1.5 Software de administración de la producción",
         "anchor": "15"
-      },
-      {
-        "icon": "fa fa-file-text-o",
-        "slug": "actividad",
-        "title": "1.6 Recolección de información",
-        "anchor": "16"
       }
     ]
   },
   { 
     "id": 1,
     "icon": "fa fa-file-text-o",
-    "slug": "herramientas",
-    "title": "2. Herramientas para el procesamiento de datos y metodología estadística",
+    "slug": "diligencia",
+    "title": "2. Diligencia del talento humano",
     "breadcrumb": ["Inicio","tema 2"],
     "path": "pages/2-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text-o",
-        "slug": "herramientas",
-        "title": "2.1 Fuentes de información",
+        "slug": "diligencia",
+        "title": "2.1 Diagnóstico y necesidades de talento humano ",
         "anchor": "21"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "herramientas",
-        "title": "2.2 Estadística",
+        "slug": "diligencia",
+        "title": "2.2 Proceso administrativo",
         "anchor": "22"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "herramientas",
-        "title": "2.3 Variables estadísticas",
+        "slug": "diligencia",
+        "title": "2.3 Estilos de dirección",
         "anchor": "23"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diligencia",
+        "title": "2.4 Herramientas gerenciales",
+        "anchor": "24"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diligencia",
+        "title": "2.5 Manual de funciones",
+        "anchor": "25"
       }
     ]
   },
   { 
     "id": 1,
     "icon": "fa fa-file-text-o",
-    "slug": "3herramientas",
-    "title": "3.procesamiento de datos y metodología estadística",
+    "slug": "estructura",
+    "title": "3. Estructura organizacional de una empresa agropecuaria",
     "breadcrumb": ["Inicio","tema 3"],
     "path": "pages/3-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text-o",
-        "slug": "herramientas",
-        "title": "2.1 Fuentes de información",
-        "anchor": "21"
+        "slug": "estructura",
+        "title": "3.1 Variables técnicas y productivas",
+        "anchor": "31"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "herramientas",
-        "title": "2.2 Estadística",
-        "anchor": "22"
+        "slug": "estructura",
+        "title": "3.2 Herramientas de análisis organizacional",
+        "anchor": "32"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "herramientas",
-        "title": "2.3 Variables estadísticas",
-        "anchor": "23"
+        "slug": "estructura",
+        "title": "3.3 Diagnóstico organizacional y técnico",
+        "anchor": "33"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "estructura",
+        "title": "3.4 Proceso administrativo",
+        "anchor": "34"
       }
     ]
   }
