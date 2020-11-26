@@ -36,8 +36,9 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('1', 'Reflexión inicial', '#tema-1')
-                                    +navTemaItem('2', 'Conceptos de desarrollo sostenible y educación ambiental', '#tema-2')
+                                    +navTemaItem('1', 'Llave de acceso para llegar a mercados verdes de un sistema productivo', '#tema-1')
+                                    +navTemaItem('2', 'Diligencia del talento humano', '#tema-2')
+                                    +navTemaItem('3', 'Estructura organizacional de una empresa agropecuaria', '#tema-3')
                                     +navTemaItem('glosary', 'Glosario', '#glosario')
                                     +navTemaItem('folder', 'Material complementario', '#anexos')
                                     +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
@@ -48,7 +49,8 @@ html(lang="es")
                 include pages/1-tema.pug
             #tema-2
                 include pages/2-tema.pug
-                                        
+            #tema-3
+                include pages/3-tema.pug                   
             #glosario
                 include pages/glosario.pug
             #anexos
